@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Nhật Ký Intern(P1)
 ---
 ## #Nhật Ký Intern (Phần I)
 
