@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## #Nhật Ký Intern (Phần I)
 
