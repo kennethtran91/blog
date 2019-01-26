@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tại sao lại viết blog nhỉ?
+published: true
 ---
 
 ### Chém gió dạo đầu 🐵
@@ -18,4 +19,4 @@ Mình là bobbythedog, một thanh niên 27 tuổi thích chém gió vừa tốt
 Điều làm mình khác với các tiền bối blogger khác là trình độ mình không siêu như các anh dev khác đâu (việc học mất hơn 5 năm mới xong đã chứng minh cho khả năng của mình rồi đó😩) cho nên nội dung blog mình sẽ xoay quanh những điều mình thấy, học và tích góp dc trong quá trình đi làm. Các bạn thường hay bỏ thời gian đọc blog của những anh dev cực kì giỏi 🐔, vậy thì các dev cùi bắp ko dc chia sẻ suy nghĩ hay kinh nghiệm bản thân sao? 🐒 😔 Do đó mình hy sinh làm những tấm gương xấu cho các bạn đọc vào mà tránh. (thay vì đọc những bài blog đỉnh cao của các dev thần thánh và tuân theo như kinh thánh thì hãy làm ngược lại những gì mình bảo nhé 😂 bảo đảm đúng)
 
 
-*Câu cú còn hơi lủng củng nên các đồng dâm bỏ qua nhé 😭 Chủ yếu viết cho mình sau này đọc lại thôi.*
+*Câu cú còn hơi lủng củng nên các đồng dâm bỏ qua nhé* 😭 *Chủ yếu viết cho mình sau này đọc lại thôi.*
