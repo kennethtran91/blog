@@ -3,7 +3,6 @@ published: true
 layout: post
 title: Nhật Ký Intern(P1)
 ---
-## #Nhật Ký Intern (Phần I)
 
 *Ai trong chúng ta hẳn cũng phải một lần phải nghĩ đến việc đi thực tập để kiếm thêm ít kinh nghiệm chăn gối ... à nhầm, kinh nghiệm thực tế cho công việc sau này của mình nhỉ. Sau đây là bài chia sẻ lại quá trình từ tìm kiếm, dựng resume, phỏng vấn, tìm hiểu về công ty, vân vân và vân mây.* 😬
 
