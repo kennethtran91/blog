@@ -6,7 +6,7 @@ title: Nhật Ký Intern (P1)
 
 *Ai trong chúng ta hẳn cũng phải một lần phải nghĩ đến việc đi thực tập để kiếm thêm ít kinh nghiệm chăn gối ... à nhầm, kinh nghiệm thực tế cho công việc sau này của mình nhỉ. Sau đây là bài chia sẻ lại quá trình từ tìm kiếm, dựng resume, phỏng vấn, tìm hiểu về công ty, vân vân và vân mây.* 😬
 
-#### Tuổi thơ chơi bời 🤭
+### Tuổi thơ chơi bời 🤭
 
 Ai trải qua thời đi học mà chẳng ham chơi đúng ko? Ko ham game thì ham gái, ko gái gú thì nhậu nhẹt, đời người con trai chỉ có nhiêu đó thôi, ít ai có thể xây dựng dc cho mình 1 lối sống lành mạnh khi xung quanh mình toàn những con ma men, những con nghiện ... game luôn chực chờ lôi kéo mình vào con đường hư hỏng. 😔  
   
@@ -18,7 +18,7 @@ Tôi học ra làm coder, ngày ngày cắm mặt vào máy tính, tay gõ nhữ
   
 Lầm to đấy ku. Sau này khi đi phỏng vấn, email cho HR/sếp, những bài học này giá trị vcl ra các thím ạ.
 
-#### Tìm hiểu và dựng Resume cho bản thân 🤤
+### Tìm hiểu và dựng Resume cho bản thân 🤤
 
 Cũng trong lớp BCOM đó, tớ đã dc học cách làm 1 resume căn bản. Nói là căn bản bởi vì đa số các sinh viên thường chưa đi làm nhiều, đa số là part-time như đi làm ở Nhà hàng, Babysit, ... nên resume của các sv đa số là sơ sài và nhìn rất chán. Sau này sau khi giúp 1 vài ngừoi bạn dựng resume để kiếm internship, mình rút ra một điều là:  
 
