@@ -1,6 +1,5 @@
 ---
-published: false
-publish: true
+published: true
 ---
 *Linh tinh lang tang vài dòng suy nghĩ nhân dịp cuối năm*
 
