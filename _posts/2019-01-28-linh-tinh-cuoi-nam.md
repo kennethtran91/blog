@@ -1,12 +1,12 @@
 ---
 published: false
+publish: true
 ---
 *Linh tinh lang tang vài dòng suy nghĩ nhân dịp cuối năm*
 
-### #Tết mà không tết
-Năm nào cũng vậy, đến thời gian này là facebook của mình rần rần mọi người chuẩn bị đón tết. Và lại một năm nữa không biết cái không khí tết nó ra răng. Đã hơn 10 năm tha hương cầu thực bên xứ cờ hoa, từ một thằng nhóc 17 tuổi ngáo đá cho đến bây giờ vẫn không thay đổi gì nhiều.  
-  
-Mới ngày nào còn háo hức chờ được lì xì, bẵng một phát tết này phải kiếm bao lì xì để ... lì xì lại 2 cô cháu gái ở nhà. Hức! đó là còn chưa kể có 1 cô bạn gái đang ngồi nhà chờ để nhận lì xì tết lẫn ... valentine. Vừa đi làm mà chưa gì thấy hao tài dễ sợ huhu.  
-  
-Tết mà vẫn phải đi làm vì mỹ họ có biết tết là cái chi mô. Vừa làm vừa lướt FB mà lòng đau như cắt hức hức. Đã vậy tuần đầu tiên đi làm ko biết tụi security làm ăn thế nào mà đã hơn 1 tuần rồi mà userid vẫn chưa xong. Chưa setup dc gì cả. Đúng là 1 lũ vô dụng. Nhờ vậy mà mình làm tạm trên con macbook pro 2011 cũ
-### #
+### #Cuối năm - đầu năm
+Tuần vừa qua ở VN là tết nhất. Ở mẽo thì ngày nào cũng là ngày đi làm thôi 👨‍💻 . Có một anh bạn làm Mechanical engineer vừa lấy vợ, và có con. Trong tuần đi làm, cuối tuần cũng tranh thủ cày thêm. Có tôi là nhong nhong cuối tuần nằm dài ở nhà chơi với mấy đứa cháu. Tối thì xách mông qua nhà thằng bạn làm lon bia. Thật! Chẳng có ai sướng như tôi 🤪.
+Mà tôi cũng sắp 30 rồi chứ ít gì, tuy khái niệm lấy vợ vẫn còn hơi xa lạ nhưng suy nghĩ dạo này cũng đã hơi khác tí. Tôi vừa muốn để dành tiền lo cho tương lai vừa muốn du lịch cho sướng trước khi bước qua tuổi 30. Mẹ ơi, ngày xưa lúc còn sinh viên tiền ăn hàng tháng còn lo chưa xong, đi chơi họa may 1 năm dc 2 lần đi xa. Cho nên túi lúc nào cũng nhẹ hều, ko dám xài chi sang chảnh. Nay đi làm có dư dc chút ít chỉ sợ lại vung tay quá mạng 🤦‍♂️. Tính tôi con trai xài cũng hoang lắm. Đi ăn với người yêu, gia đình thì "cứ để anh lo" (chắc mắc bệnh sĩ gái 🐣). Chắc bây giờ phải làm 1 tài khoản tiết kiệm là vừa. Bỏ heo có khả thi ko nhỉ?
+
+### #Mặt học sinh - tuổi ... phụ huynh
+Team trong cty của tôi khoảng 10 người. Mà xét về độ tuổi chắc tôi cũng phải thuộc loại lão làng. Được cái trời cho gương mặt trẻ thơ nên ai cũng nghĩ chắc thằng ku ni vừa đủ tuổi uống bia thôi. Tuổi thì lớn mà mang cái title Junior lâu lâu phải xách mông đi hỏi mấy đứa nhỏ hơn mà kinh nghiệm của tụi nó phải lên đến 3 4 năm rồi. Biết vậy ngày xưa học hành đàng hoàng ra trường đúng hạn thì giờ có khi cũng phải lên Senior rồi 😓. 
