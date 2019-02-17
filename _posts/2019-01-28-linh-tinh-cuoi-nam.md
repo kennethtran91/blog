@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Linh Tinh Cuối Năm
 ---
 *Linh tinh lang tang vài dòng suy nghĩ nhân dịp cuối năm*
 
